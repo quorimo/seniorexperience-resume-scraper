@@ -1,7 +1,5 @@
 # seniorexperience-resume-scraper
 
-no one is safe. i dont actually care about the resumes. feel free to use this troll. 
-
 ### documentation 
 
 This is a very simple script. You'll need Selenium and python-dotenv. And chromedriver.    
